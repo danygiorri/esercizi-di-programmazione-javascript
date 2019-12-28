@@ -8,3 +8,7 @@
   
   http://www.imparareaprogrammare.it
 */
+var somma = a+b+c+d+e;
+var media = a+b+c+d+e/5;
+console.log('somma');
+console.log('media');
